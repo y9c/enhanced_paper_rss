@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/elifesciences.org\/content\/4\/e06184",
+    "content_type": "text\/html; charset=utf-8",
+    "http_code": 200,
+    "header_size": 1097,
+    "request_size": 1090,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 2,
+    "total_time": 11.871922,
+    "namelookup_time": 2.7e-5,
+    "connect_time": 0.178602,
+    "pretransfer_time": 0.178647,
+    "size_upload": 0,
+    "size_download": 76803,
+    "speed_download": 6469,
+    "speed_upload": 0,
+    "download_content_length": 0,
+    "upload_content_length": 0,
+    "starttransfer_time": 5.249429,
+    "redirect_time": 5.90331,
+    "redirect_url": "",
+    "primary_ip": "104.232.27.115",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "172.22.49.95",
+    "local_port": 46552
+}

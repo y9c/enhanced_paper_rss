@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/data.crossref.org\/10.1038%2Fni.3188",
+    "content_type": "text\/html;charset=utf-8",
+    "http_code": 303,
+    "header_size": 258,
+    "request_size": 254,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 1,
+    "total_time": 0.860562,
+    "namelookup_time": 0,
+    "connect_time": 0,
+    "pretransfer_time": 0,
+    "size_upload": 0,
+    "size_download": 0,
+    "speed_download": 0,
+    "speed_upload": 0,
+    "download_content_length": 0,
+    "upload_content_length": 0,
+    "starttransfer_time": 0,
+    "redirect_time": 0.735972,
+    "redirect_url": "",
+    "primary_ip": "63.123.152.248",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "172.22.49.95",
+    "local_port": 32855
+}

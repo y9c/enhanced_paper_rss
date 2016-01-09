@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/dx.doi.org\/http%3A%2F%2Fdx.doi.org%2F10.1038%2Fni.3188",
+    "content_type": "text\/html;charset=utf-8",
+    "http_code": 404,
+    "header_size": 151,
+    "request_size": 280,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 1.048877,
+    "namelookup_time": 0.061939,
+    "connect_time": 0.525825,
+    "pretransfer_time": 0.52589,
+    "size_upload": 0,
+    "size_download": 5044,
+    "speed_download": 4808,
+    "speed_upload": 0,
+    "download_content_length": 5044,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.804741,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "208.254.38.90",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "172.22.49.95",
+    "local_port": 46073
+}

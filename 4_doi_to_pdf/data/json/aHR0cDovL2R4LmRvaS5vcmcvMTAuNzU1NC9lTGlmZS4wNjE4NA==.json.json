@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/dx.doi.org\/http%3A%2F%2Fdx.doi.org%2F10.7554%2FeLife.06184",
+    "content_type": "text\/html;charset=utf-8",
+    "http_code": 404,
+    "header_size": 151,
+    "request_size": 284,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 0.280057,
+    "namelookup_time": 3.1e-5,
+    "connect_time": 3.7e-5,
+    "pretransfer_time": 7.1e-5,
+    "size_upload": 0,
+    "size_download": 5052,
+    "speed_download": 18039,
+    "speed_upload": 0,
+    "download_content_length": 5052,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.279811,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "208.254.38.90",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "172.22.49.95",
+    "local_port": 46073
+}

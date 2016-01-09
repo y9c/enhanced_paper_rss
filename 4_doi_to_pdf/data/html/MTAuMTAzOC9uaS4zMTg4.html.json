@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/www.nature.com\/ni\/journal\/v16\/n6\/full\/ni.3188.html",
+    "content_type": "text\/html; charset=utf-8",
+    "http_code": 200,
+    "header_size": 1548,
+    "request_size": 911,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 2,
+    "total_time": 3.053615,
+    "namelookup_time": 2.5e-5,
+    "connect_time": 3.0e-5,
+    "pretransfer_time": 8.3e-5,
+    "size_upload": 0,
+    "size_download": 16178,
+    "speed_download": 5297,
+    "speed_upload": 0,
+    "download_content_length": 16178,
+    "upload_content_length": 0,
+    "starttransfer_time": 1.139499,
+    "redirect_time": 1.912808,
+    "redirect_url": "",
+    "primary_ip": "165.254.27.75",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "172.22.49.95",
+    "local_port": 51688
+}

@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/data.crossref.org\/10.7554%2FeLife.06184",
+    "content_type": "text\/html;charset=utf-8",
+    "http_code": 303,
+    "header_size": 262,
+    "request_size": 258,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 1,
+    "total_time": 11.311408,
+    "namelookup_time": 0,
+    "connect_time": 0,
+    "pretransfer_time": 0,
+    "size_upload": 0,
+    "size_download": 0,
+    "speed_download": 0,
+    "speed_upload": 0,
+    "download_content_length": 0,
+    "upload_content_length": 0,
+    "starttransfer_time": 0,
+    "redirect_time": 0.787372,
+    "redirect_url": "",
+    "primary_ip": "2a00:1a48:7805:112:2c13:65be:ff08:2e89",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "2001:250:3002:23a4:dca9:6701:6070:ebc5",
+    "local_port": 45744
+}

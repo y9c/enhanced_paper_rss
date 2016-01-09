@@ -1,0 +1,30 @@
+{
+    "url": "http:\/\/elifesciences.org\/content\/elife\/4\/e06184.full.pdf",
+    "content_type": "application\/pdf",
+    "http_code": 200,
+    "header_size": 642,
+    "request_size": 265,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 17.747357,
+    "namelookup_time": 0.002131,
+    "connect_time": 0.17569,
+    "pretransfer_time": 0.175741,
+    "size_upload": 0,
+    "size_download": 1272343,
+    "speed_download": 71691,
+    "speed_upload": 0,
+    "download_content_length": -1,
+    "upload_content_length": 0,
+    "starttransfer_time": 1.307294,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "104.232.27.115",
+    "certinfo": [
+
+    ],
+    "primary_port": 80,
+    "local_ip": "172.22.49.95",
+    "local_port": 46553
+}
